@@ -1,0 +1,23 @@
+name: XemeGamer
+author: WalkingUcak_
+version: 1.0
+main: me.minegamersg.Main.Main
+commands:
+  list:
+  hub:
+  stats:
+  build:
+  disguise:
+    aliases: [d]
+  sidebar:
+  rank:
+  pets:
+  fly:
+  chatcolor:
+    aliases: [cc]
+  ban:
+  unban:
+  mute:
+  unmute:
+  kick:
+  server:
